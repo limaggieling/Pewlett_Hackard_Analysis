@@ -23,8 +23,10 @@ Deliverable 2
 The count by title for roles to be filled are as follows:
 25,916 Senior Engineers, 24,926 Senior Staffers, 9,285 Engineers, 7,636 Staffers, 3,603 Technique Leaders, 1,090 Assistant Engineers, and 2 Managers.
 
+![retiring_titles](Data/retiring_titles.png)
+
 2) Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
-![retiring_titles](Data/retiring_titles.png)
+I believe there are enough qualified retirement-ready employees in the department to mentor the next generation of employees given we have a substancial number from each department as shown in the table.
 
 ![mentorship_eligibility_count](Data/mentorship_eligibility_count.png)
